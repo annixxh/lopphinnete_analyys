@@ -6,4 +6,4 @@ Anne-Mari Kasemetsa, 2024.
 Andmeanalüüs on tehtud Jupiter Notebook failina. Faili jooksutades tuleks sellele ette anda fail "andmestik.xlsx". 
 Analüüs tehti Google Colab keskkonnas. 
 
-Koodi tulemuseks on tabelid, mis salvestati Google Sheets Exceli tabelina. Jooniseid koodiga ei genereeritud. 
+Koodi tulemuseks on tabelid, mis salvestati Google Sheets'i Exceli tabelina. Jooniseid koodiga ei genereeritud, vaid loodi need ise Google Sheets keskkonnas. 
